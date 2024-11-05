@@ -42,5 +42,8 @@
 3. Completar la compra para vaciar el carrito y ver un mensaje de agradecimiento.
 4. Iniciar sesión como administrador para gestionar el catálogo de productos.
 
+## Despliegue del proyecto
+https://tienda-de-focos.vercel.app/
+
 ## Notas Finales
 Este proyecto es una simulación de una tienda en línea y está diseñado como una práctica escolar. No realiza transacciones reales y está limitado a funciones de front-end.
