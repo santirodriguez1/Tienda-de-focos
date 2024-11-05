@@ -1,4 +1,4 @@
-# Tienda de Focos
+### Tienda de Focos
 Este es un proyecto de tienda de focos desarrollado como parte de un proyecto escolar, utilizando HTML, CSS (con Bootstrap) y JavaScript. La tienda simula una plataforma de e-commerce que permite visualizar productos, agregarlos al carrito y gestionarlos.
 
 Características del Proyecto
